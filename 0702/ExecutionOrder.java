@@ -1,4 +1,3 @@
-package 0702;
 
 public class ExecutionOrder {
     public static void main(String[] args) {
