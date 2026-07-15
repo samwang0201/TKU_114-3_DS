@@ -264,11 +264,7 @@ public class ProductArraySystem {
         return totalValue;
     }
 
-    public static void displaySummary(
-            int purchaseCount,
-            int restockCount,
-            int totalPurchaseQuantity,
-            int totalRestockQuantity) {
+    public static void displaySummary(int purchaseCount,int restockCount,int totalPurchaseQuantity,int totalRestockQuantity) {
 
         System.out.println();
         System.out.println("===== 操作摘要 =====");
